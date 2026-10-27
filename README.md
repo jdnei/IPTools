@@ -24,6 +24,8 @@
 
 | 工具（点击访问） | 主要用途 |
 |---|---|
+| [IPsuper.com](https://ipsuper.com/) | 查看出口 IP、ASN、IP 纯净度及风险线索 |
+| [IPpure.com](https://ippure.com/) | 查看出口 IP、ASN、IP 纯净度及风险线索 |
 | [Ping0.cc](https://ping0.cc/) | 查看出口 IP、ASN、IP 类型及风险线索 |
 | [ipinfo.cv](https://ipinfo.cv/) | 快速返回 IP、位置与时区信息 |
 | [IP.SKK](https://ip.skk.moe/) | 对比多个来源的 IP 归属信息 |
@@ -32,6 +34,7 @@
 | [IP.me](https://ip.me/) | 简洁查看公网 IP 与基础信息 |
 | [MyIP](https://www.myip.com/) | 查询 IP、运营商与浏览器基础信息 |
 | [2IP.io](https://2ip.io/) | 综合查询 IP、主机名与 ASN |
+| [IP.net.coffee](https://ip.net.coffee/) | 综合查询 IP、分流、纯净度与 ASN |
 
 ### 🌍 IP 归属地与数据库
 

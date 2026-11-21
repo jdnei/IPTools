@@ -5,7 +5,7 @@
 
 <a id="IPTools"></a>
 
-# IP & Network Diagnostic Toolkit (Updated November 20, 2026)
+# IP & Network Diagnostic Toolkit (Updated November 21, 2026)
 
 > A collection of useful tools for IP lookup, geolocation, BGP routing, risk and reputation analysis, privacy leak detection, network connectivity testing, speed testing, and public-facing asset inspection.
 >
